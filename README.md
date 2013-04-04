@@ -1,0 +1,4 @@
+MyCodeProject
+=============
+
+Android Sample Project
